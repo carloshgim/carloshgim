@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos =)</h1>
 <h3 align="center">A data enthusiast and collaboration junkie from Mexico City</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshgim&label=Profile%20views&color=0e75b6&style=flat" alt="carloshgim" /> </p>
-
 - 🔭 Currently, **I'm geeking out over my Data Science bootcamp at Triple Ten (formerly Practium) and diving into some cool DataCamp courses on Data Analysis and Data Science 🤓**
 
 - 🌱 Right now, **I'm knee-deep in learning about Artificial Vision in my bootcamp. On the side, I'm brainstorming ways to unleash the power of my master's thesis interviews on food practices by diving into Natural Language Processing. Exciting stuff, right? 😎**
