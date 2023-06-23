@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **carlosgim@gmail.com**
 
-- 📄 Know about my experiences [📊 Data Analyst | 🧪 Data Science | 📦 Supply Chain | 📋 Project Management | 🏥 Public Health | 🔍 Social Research | 🍽️ Food Practices |](📊 Data Analyst | 🧪 Data Science | 📦 Supply Chain | 📋 Project Management | 🏥 Public Health | 🔍 Social Research | 🍽️ Food Practices |)
+- 📄 Know about my experiences [📊 Data Analyst | 🧪 Data Science | 📦 Supply Chain | 📋 Project Management | 🏥 Public Health | 🔍 Social Research | 🍽️ Food Practices |]
 
 - ⚡Fun fact: **I'm not just a data nerd, but also a certified dessert-making wizard from my high school days. Prepare to have your taste buds blown away by my scrumptious creations! 🍰🎩**
 
